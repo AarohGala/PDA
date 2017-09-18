@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_555ad3ea6e9678a8b33079e10a07ea102ed9e63d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_fe37317c281da757afaa5c76aaa69952e1303e99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_74a981fcc4709131e652ce923f6b757f36922a87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1627262281bb967afb9dd65ed687677896ec5b7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_24c10005dfb11745ea5bd4dd3d0000a0a1f3fb2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_e390e7592f34c511384202115c8f9197f8686d43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4a277c1a7939dac24376ab38e7d2d06a4b4fc580\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_43fa250496f1fd0557be7c49d43fcd32cb9b05b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a82386431e6027437c4a1e97baa2c1656fd40b0">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9310f88280e78093186cd055116347552edc68aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_576286b0221d1185ed65cca173bdce96b18b9013\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_402c1aae98c3b62cd7c7d38e36da3ddc37ce4e7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_239ad8e3f2c9b469f3f90e0af63bffd4884ee906\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.19.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.19.0_b08cb19120902fd8935326f6de38e4eaf9a8ab9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_28046c80ecd4fa1e2de28e10e25d9347db9fa529\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_8f102782e754158dfbafe68349ad6b8d97472280\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f0a4c6d8044002c0ffda2b43459ae2b001f59890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_b4212d02b3b6ad64b02a6f6b0f187e3ffb0501b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_834789b6f4ef41e6efd0ed1508c9b9c72fb32ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_7506ed5a51afb746221d13331a560a3b617bd348\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f09bb7bf548509d526c30938fc0ac2f1e471d0a6">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_30ee7ccb5be981bc20a5189a2b0e4598c4c854e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_db493dcc7f4384c7b46c5acc10450a82a8803b3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Aaroh\Desktop\android\BEProj\UIChange\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_b5af0df3bc6fcf9e94c955fd10fdff42563029ac\classes.dex" />
+    </item>
+
+</items>

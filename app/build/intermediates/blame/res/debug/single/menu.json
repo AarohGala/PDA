@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Aaroh\\Desktop\\android\\BEProj\\UIChange\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Aaroh\\Desktop\\android\\BEProj\\UIChange\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaroh\\Desktop\\android\\BEProj\\UIChange\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_homepage.xml",
+        "source": "C:\\Users\\Aaroh\\Desktop\\android\\BEProj\\UIChange\\app\\src\\main\\res\\menu\\activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aaroh\\Desktop\\android\\BEProj\\UIChange\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_register.xml",
+        "source": "C:\\Users\\Aaroh\\Desktop\\android\\BEProj\\UIChange\\app\\src\\main\\res\\menu\\activity_register.xml"
+    }
+]
